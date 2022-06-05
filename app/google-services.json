@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "798739510140",
+    "project_id": "tiendita-moviles-2022",
+    "storage_bucket": "tiendita-moviles-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798739510140:android:1a8e2de590606bd5932af9",
+        "android_client_info": {
+          "package_name": "com.example.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798739510140-49ac3udg2784fj6ochls486vtbsimntj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrt-Hk-9q27MXKGqmRewvsmcFReDdBbJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798739510140-49ac3udg2784fj6ochls486vtbsimntj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
